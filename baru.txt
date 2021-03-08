@@ -2,3 +2,6 @@ Ada yang baru
 # Beda 1
 # Beda 2
 # Beda 3
+# Tambah beda
+% Makin beda
+& Sangat beda
