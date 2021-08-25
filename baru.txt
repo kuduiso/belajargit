@@ -5,6 +5,4 @@ Ada yang baru
 # Tambah beda
 % Makin beda
 & Sangat beda
-
-Belajar git sangan menarik
-Semakin menarik belajar merge branch
+^^ Main beda
