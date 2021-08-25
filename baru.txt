@@ -7,3 +7,4 @@ Ada yang baru
 & Sangat beda
 
 Belajar git sangan menarik
+Semakin menarik belajar merge branch
