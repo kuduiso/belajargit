@@ -7,3 +7,5 @@ Belajar
  #NODEJS
  #GOLANG
  #KOTLIN
+
+Setelah saya belajar itu semua maka akan saya terapkan ilmunya untuk membuat projek yang bermanfaat
