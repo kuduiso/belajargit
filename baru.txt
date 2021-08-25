@@ -5,3 +5,5 @@ Ada yang baru
 # Tambah beda
 % Makin beda
 & Sangat beda
+
+Belajar git sangan menarik
